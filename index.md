@@ -10,3 +10,13 @@ Tried out differrent heading tags
 
 ![Demo Image](https://octodex.github.com/images/yaktocat.png) 
 
+
+``` Java
+int[] arr ={1,2,3,4,5};
+
+```
+
+```
+$ git init
+```
+
