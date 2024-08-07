@@ -20,3 +20,6 @@ int[] arr ={1,2,3,4,5};
 $ git init
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
